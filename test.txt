@@ -1,1 +1,2 @@
 Un fichier pour tester le stash.
+Une nouvelle ligne.
