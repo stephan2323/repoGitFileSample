@@ -1,1 +1,1 @@
-un fichier pour tester.
+un fichier pour tester. Ajout de quelques mots après stash.
